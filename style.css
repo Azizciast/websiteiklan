@@ -558,6 +558,12 @@ footer .credit a {
     padding: 1rem 1.6rem;
 }
 
+.modal .modal-price {
+    text-decoration: line-through;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
 /* Media Queries */
 
 
