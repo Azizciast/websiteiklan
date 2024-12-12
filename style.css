@@ -558,11 +558,6 @@ footer .credit a {
     padding: 1rem 1.6rem;
 }
 
-.modal .modal-price span {
-    text-decoration: line-through;
-    font-size: 1rem;
-    color: #010101;
-}
 
 /* Media Queries */
 
