@@ -391,7 +391,7 @@ body {
   text-align: center;
   max-width: 30rem;
   margin: auto;
-  font-weight: 100;
+  font-weight: 100%;
   line-height: 1.6;
 }
 
@@ -409,7 +409,7 @@ body {
 
 .menu .row .menu-card img {
   border-radius: 50%;
-  width: 80%;
+  width: 30%;
 }
 
 .menu .row .menu-card .menu-card-title {
